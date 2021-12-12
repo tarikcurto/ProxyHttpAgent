@@ -9,7 +9,6 @@
       "target": "es5",
       "moduleResolution": "node",
       "resolveJsonModule": true,
-      "esModuleInterop": true,
       "typeRoots": [
         "./node_modules/@types",
         "./test/@types/"
